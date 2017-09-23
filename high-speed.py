@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-'''s'''
 from matplotlib import pyplot as plt
 drawing=False
 ix,iy=0,0
